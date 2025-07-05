@@ -1,6 +1,5 @@
 import React from 'react';
 import './Navbar.css';
-import { FaQuestionCircle } from 'react-icons/fa';
 
 const Navbar: React.FC = () => {
   return (
@@ -15,7 +14,6 @@ const Navbar: React.FC = () => {
         <a href="#">Contact</a>
       </nav>
       <div className="navbar-right">
-        <FaQuestionCircle className="help-icon" />
         <img src="/profile.png" alt="user" className="user-avatar" />
       </div>
     </header>
