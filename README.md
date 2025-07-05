@@ -1,3 +1,6 @@
+Folder 1 Live Link: https://print-shop1.vercel.app/
+
+
 # Print-Shop
 
 **Print-Shop** is a web-based application developed to improve the efficiency of printing services within a college environment. The system allows students to submit print requests online, specify print preferences, and choose between online payment or payment upon collection. Print shop staff can manage incoming requests and notify students via email when their documents are ready for pickup.
