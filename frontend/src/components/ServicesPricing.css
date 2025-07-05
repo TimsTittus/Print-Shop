@@ -1,0 +1,45 @@
+.services-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.services-container h1 {
+  margin-bottom: 10px;
+}
+
+.description {
+  color: #6c757d;
+  margin-bottom: 20px;
+}
+
+.services-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+  border: 1px solid #e0e0e0;
+}
+
+.services-table th,
+.services-table td {
+  padding: 12px;
+  border-bottom: 1px solid #e0e0e0;
+  text-align: left;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  color: white;
+}
+
+.status-badge.active {
+  background-color: #d2eaf5;
+  color: #000;
+}
+
+.status-badge.inactive {
+  background-color: #e2e3e5;
+  color: #333;
+}

@@ -1,0 +1,41 @@
+.landing-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 40px;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.landing-left img {
+  width: 400px;
+  max-width: 100%;
+}
+
+.landing-right {
+  max-width: 500px;
+  text-align: left;
+}
+
+.landing-right h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.landing-right p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.print-now-button {
+  background-color: #90f1ec;
+  border: none;
+  color: #000;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+}
